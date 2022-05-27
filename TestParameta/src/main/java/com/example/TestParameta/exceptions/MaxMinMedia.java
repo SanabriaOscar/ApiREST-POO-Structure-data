@@ -15,21 +15,21 @@ public class MaxMinMedia {
            array[i]= s.nextInt();
         }
         for (int i=0; i<8; i++){
-            sum=+array[i];
+            sum+=array[i];
         }
         for (int i=1; i<8; i++){
 
-            System.out.println(sum);
+           // System.out.println(sum);
             if(array[i]>max){
                 max=array[i];
-            }if(array[i]>min){
+            }if(array[i]<min){
                 min=array[i];
             }
 
         }
         System.out.println("El minimo es: "+min);
         System.out.println("El max es: "+max);
-        System.out.println("La suma es: "+sum);
+        System.out.println("La suma es: "+sum/8);
 
     }
 }

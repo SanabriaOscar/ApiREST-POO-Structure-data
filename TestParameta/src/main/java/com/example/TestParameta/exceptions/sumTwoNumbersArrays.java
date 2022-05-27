@@ -1,5 +1,6 @@
 package com.example.TestParameta.exceptions;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class sumTwoNumbersArrays {
@@ -11,7 +12,16 @@ public class sumTwoNumbersArrays {
             for(int j=0; j<myArray.length; j++){
                 int total=myArray[i]+myArray[j];
                 if(total==num){
-                    System.out.println(myArray[i]);
+                    int numEntero=myArray[i];
+                    String numCadena= String.valueOf(numEntero);
+
+                    //System.out.print(numCadena);
+                   String  []array=numCadena.split("  ");
+                    System.out.print(Arrays.toString(array));
+
+
+
+                }
                 }
 
             }
@@ -19,7 +29,7 @@ public class sumTwoNumbersArrays {
         ////
 
     }
-}
+
 
 
 
