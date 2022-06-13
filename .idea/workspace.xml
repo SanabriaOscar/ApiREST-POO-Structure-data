@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="975cbe0b-bde0-41fe-a426-fd50d39908d8" name="Changes" comment="" />
+    <list default="true" id="4c9bd022-3592-4c5f-9e81-9e89c45dd064" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ApiREST-POO-Structure-data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="29PPUUsSIzfo09Dfi43GetjB35o" />
+  <component name="ProjectId" id="2AX6TlqfXMjWxJs9be0cliT38Bp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,17 +27,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestParameta" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="975cbe0b-bde0-41fe-a426-fd50d39908d8" name="Changes" comment="" />
-      <created>1653011768663</created>
+      <changelist id="4c9bd022-3592-4c5f-9e81-9e89c45dd064" name="Changes" comment="" />
+      <created>1655143596200</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653011768663</updated>
-      <workItem from="1653011770763" duration="40000" />
+      <updated>1655143596200</updated>
+      <workItem from="1655143599425" duration="110000" />
     </task>
     <servers />
   </component>
